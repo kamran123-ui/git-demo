@@ -1,0 +1,3 @@
+" create new file kia h hello.txt ke bad "
+" hie vikas maine nano se  edit karne ke liye nano vikas.txt likha h"
+ 
