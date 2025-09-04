@@ -1,1 +1,3 @@
-Hello Git
+Hello Git 
+my name is kamran..
+right now i am learning...
